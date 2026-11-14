@@ -1,2 +1,2 @@
 # Focus_Lock
-Smart productivity and task_based app.
+Smart productivity and task-based app.
